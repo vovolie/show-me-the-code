@@ -1,9 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 __author__ = 'vovo'
-
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import matplotlib.cbook as cbook
+import os
 
 font = {
     'family' : 'serif',
@@ -12,7 +14,8 @@ font = {
     'size' : 26,
 
 }
-image_file = cbook.get_sample_data('/home/vovo/show-me-the-code/show-me-the-code/1.jpg')
+path = os.path.split(os.path.realpath(__file__))[0] + '/2.png'
+image_file = cbook.get_sample_data(path)
 image = plt.imread(image_file)
 fig, ax = plt.subplots()
 im = ax.imshow(image)

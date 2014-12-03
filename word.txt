@@ -1,0 +1,23 @@
+We have Android guides for everyone whether you are a beginner, intermediate or expert. Want to learn how to use the ActionBar or the ins and outs of fragments? We got that. Want to learn about automated integration testing or how to build flexible user interfaces for multiple devices? We got you covered. We don't waste time with the "theoretical approach" you might get from a book. We cover exactly the things we use every day as we are developing apps for contracts.
+
+Need Help? Please join this gitter real-time chat or the google groups for these guides where you can post related questions.
+
+Motivation
+
+Ever been frustrated finding information on outdated one-off blog posts and tutorials that have long since become irrelevant? How many times have you been googling to find your answer only exists on an obscure 2 year old StackOverflow post? We believe there's got to be a better way. Why not have the community work together to create useful and detailed documentation for every aspect of Android (or any platform)? There's absolutely no reason that we should have to make do with vague and outdated content anymore.
+
+Read about our mission to change the way engineers learn new technologies and check out how you can get involved! In addition, we are at present a fledgling startup so if you like this guide and what we are trying to do, please consider following us on twitter @codepath!
+
+Overview
+
+The cliffnotes below are categorized by their topic, so you can easily find guides on related topics whether that is views, styling, testing, or using sensors. If you see an error, incorrect explanation or deprecated solution, why not contribute back and make these cliffnotes better for the next person? That in a nutshell is the core spirit of this initiative. Check out the list of contributors to this project.
+
+Disclaimer: We have scoured the web endlessly for content while creating these guides and adapted content from many source including the Google Official Docs, Vogella Tutorials and countless other sources that had hidden gems of information. At the bottom of each guide, there are citations for the content we used. We don't claim the content is original (although we did develop quite a bit ourselves), but unlike those other sources listed, it is freely community editable. We have openly adapted, modified and brought together this content from all the sources we could find for the benefit of every engineer.
+
+Read more about us and our vision for all this. If you want to contribute to this guide, please read the Contributing Guidelines.
+
+Live in San Francisco?
+
+Located in the San Francisco Bay Area and interested in learning with others in a more structured program? Check out our local Android or iOS meetup events. We have free evening events and at-cost 1-day workshops to make learning social and connect you with others passionate about mobile.
+
+If you are an experienced engineer (2+ years of professional experience in software development) and serious about learning Android, check out our free evening 8-week Android bootcamp. Learn how to build mobile apps while collaborating with other engineers and designers. Work on solving important problems for non-profits with our free 8-week accelerated evening mobile bootcamp. Compete for $10,000 worth of cash prizes. Learn more and apply here.
